@@ -1,6 +1,7 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto React + Vite criado para acompanhar as aulas do curso Ignite ReactJS da RocketSeat iniciado em 27/09/2024..
+
 
 Currently, two official plugins are available:
 
